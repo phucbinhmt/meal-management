@@ -1,0 +1,31 @@
+// Font
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700&display=swap");
+
+$font-family-sans-serif: "Nunito", sans-serif;
+
+$primary: #695cfe !default;
+$info: #0275d8 !default;
+$border-radius: 3px !default;
+
+// Card
+$card-border-radius: 5px !default;
+$card-cap-bg: transparent;
+$card-border-width: 0;
+
+// Button
+$btn-border-width: 0 !default;
+
+// Modal
+$modal-header-border-width: 0;
+$modal-content-border-width: 0;
+$modal-footer-border-width: 0;
+$modal-content-border-radius: 5px !default;
+
+// Pagination
+$pagination-margin-start: 5px;
+$pagination-padding-x: 12px;
+
+// Button
+
+// Input
+$input-font-weight: 400 !default;
